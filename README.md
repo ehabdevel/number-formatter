@@ -1,4 +1,6 @@
-# number-formatter
+[![Build Status](https://travis-ci.org/ehabdevel/number-formatter.svg?branch=master)](https://travis-ci.org/ehabdevel/number-formatter)
+
+[![Coverage Status](https://coveralls.io/repos/github/ehabdevel/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/ehabdevel/number-formatter?branch=master)
 
 Number Formatter
 =========
