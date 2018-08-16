@@ -1,0 +1,29 @@
+{
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "A small library that adds commas to numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehabdevel/number-formatter.git"
+  },
+  "keywords": [
+    "number-formatter"
+  ],
+  "author": "“Ehab <“ehabdevel@gmail.com”> (“https://ehabdevel.github.io”)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ehabdevel/number-formatter/issues"
+  },
+  "homepage": "https://github.com/ehabdevel/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
