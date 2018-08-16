@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "@ehabdevel/number-formatter",
   "version": "1.0.0",
   "description": "A small library that adds commas to numbers",
   "main": "index.js",
@@ -25,5 +25,9 @@
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^5.2.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
 }
